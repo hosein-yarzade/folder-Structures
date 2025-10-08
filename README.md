@@ -1,7 +1,9 @@
 # Some Famuse folder Structure
 
 _ Basice Folder structure
+
 _ Feature Folder structure
+
 _ Atomic design structure
 
 -------------------------------------------
