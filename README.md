@@ -1,8 +1,11 @@
 # Some Famuse folder Structure
 
 _ Basice Folder structure
+_ Feature Folder structure
+_ Atomic design structure
 
 -------------------------------------------
+
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
